@@ -19,7 +19,6 @@ done
 echo "Installing termux packages"
 pkg update
 pkg upgrade
-pkg install x11-repo 
 pkg install pulseaudio 
 pkg install xwayland 
 pkg install wget 
